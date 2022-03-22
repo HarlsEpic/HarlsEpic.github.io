@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# E
+
+## Welcome to HarlsEpic's page about github pages!
 
 You can use the [editor on GitHub](https://github.com/HarlsEpic/HarlsEpic.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
