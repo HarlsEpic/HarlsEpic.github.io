@@ -4,6 +4,7 @@
 
 - Who am I
 - Things I enjoy
+- Programming Language
 
 ### Who am I
 
@@ -12,5 +13,9 @@ I am a student currently studying a **T-Level qualification in Digital Design an
 ### Things I enjoy
 
 In my spare time, I enjoy playing videogames, reading books and programming.
+
+### Programming Language
+
+I am currently studying / using Python as a programming language, but I intend on learning C# as a language in future.
 
 
