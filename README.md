@@ -1,14 +1,18 @@
-## Welcome to HarlsEpic's page about github pages!
+# Welcome to HarlsEpic's page about github pages!
 
 You can use the [editor on GitHub](https://github.com/HarlsEpic/HarlsEpic.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-- I did a thing
-- Hope you like it
-- Or else I will be sad :(
+## Contents
 
-### Markdown
+- Who am I
+- What am I
+- Why am I
+
+### Who am I
+
+I am a student currently studying a ***T-Level qualification in Digital Design and Development*** at ***[Exeter College](https://exe-coll.ac.uk/)***
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
