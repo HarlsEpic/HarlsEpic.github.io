@@ -17,7 +17,7 @@ In my spare time, I enjoy playing videogames, reading books and programming.
 
 ### Programming Language
 
-I am currently studying / using Python as a programming language, but I intend on learning C# as a language in future.
+I am currently studying / using Python as a programming language, but I intend to learn C# as a language in future.
 
 ### External Links
 
