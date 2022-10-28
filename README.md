@@ -13,11 +13,13 @@ I am a student currently studying a **T-Level qualification in Digital Design an
 
 ### Things I enjoy
 
-In my spare time, I enjoy playing videogames, reading books and programming.
+In my spare time, I enjoy playing videogames, reading books, programming and going for walks in the countryside.
 
 ### Programming Language
 
-I am currently studying / using Python as a programming language, but I intend to learn C# as a language in future.
+I am currently quite adept at using Python as a programming language, with some experience in HTML and CSS, and I am starting to learn C# as a language.
+
+**Take a look at this website for a fictional sportswear business that I built using Python Flask, currently hosted on PythonAnywhere!**  -->  ***[Sportswear Direct](http://harlsepic.pythonanywhere.com/)***
 
 ### External Links
 
