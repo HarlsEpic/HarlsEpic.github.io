@@ -19,9 +19,13 @@ In my spare time, I enjoy playing videogames, reading books, programming and goi
 
 I am currently quite adept at using Python as a programming language, with some experience in HTML and CSS, and I am starting to learn C# as a language.
 
+Python is currently my preferred language, however I intend to learn languages such as C# / C++ to the extent where I am able to use them for projects such as videogames development, and other software development projects.
+
+
 **Take a look at this website for a fictional sportswear business that I built using Python Flask, currently hosted on PythonAnywhere!**
 
 -->  ***[Sportswear Direct](http://harlsepic.pythonanywhere.com/)***
+
 
 ### External Links
 
